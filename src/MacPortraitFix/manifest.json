@@ -1,0 +1,15 @@
+{
+  "Name": "高清头像修复（Mac Portrait Fix）",
+  "Author": "Local / Codex",
+  "Version": "1.0.2",
+  "Description": "Draw Portraiture original HD cells directly in dialogue, including imperfect two-column sheets. Includes on-demand frame timing.",
+  "UniqueID": "Local.MacPortraitFix",
+  "EntryDll": "MacPortraitFix.dll",
+  "MinimumApiVersion": "4.0.0",
+  "Dependencies": [
+    {
+      "UniqueID": "Platonymous.Portraiture",
+      "IsRequired": true
+    }
+  ]
+}
